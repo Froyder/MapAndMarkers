@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MapAndMarkers</string>
+    <string name="map">Map</string>
+    <string name="markers">Markers</string>
+    <string name="on_item_reselected">You are here already!</string>
+    <string name="traffic">Traffic</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="normal">Normal</string>
+    <string name="satellite">Satellite</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="permission_required_toast">Required permission!</string>
+    <string name="permission_rationale_location">Want to give this app an access to your location?</string>
+    <string name="menu">Menu</string>
+    <string name="clear">Clear</string>
+    <string name="lat">lat: %s</string>
+    <string name="lng">lng: %s</string>
+    <string name="delete_all_markers_from_database">Delete all markers from database</string>
+    <string name="set_new_title">Title</string>
+    <string name="description_empty">You have not added any description to this marker</string>
+    <string name="note">Note: %s</string>
+    <string name="add_note">Note</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_changing_error">Title must be unique and not empty!</string>
+</resources>
